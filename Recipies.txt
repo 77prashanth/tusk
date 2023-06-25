@@ -5,4 +5,7 @@ Welcome to my Kitchen
 . Chicken
 . Mutton
 
+.pizza
+.burger
+
 .Thank You:)
