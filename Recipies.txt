@@ -6,5 +6,8 @@ Welcome to my Kitchen
 . Mutton
 . Fish
 
+.pizza
+.burger
+
 .Thank You:)
 Vist my Kitchen again
